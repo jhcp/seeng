@@ -1,0 +1,64 @@
+baseurl = "http://semanadasengenharias.com/"
+title = "Semana das Engenharias"
+languageCode = "pt-br"
+
+
+theme = "hugo-creative-theme"
+googleAnalytics = ""
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more information take a look at the README.
+
+	# To provide some metadata for search engines feel free to add some
+	# information about you and your website.
+	name = "UACSA"
+	description = "Site do evento Semana das Engenharias, promovido pela Universidade Federal Rural de Pernambuco - Cabo de Santo Agostinho"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Semana das Engenharias"
+
+		[params.navigation.links]
+			about     = "Sobre"
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+    		slogan     = "Semana das Engenharias"
+		subtitle   = '<h1><a href="2017/">»2017«</a></h1><h3><a href="2016/">2016</a></h3>'
+		#buttonText = "Find out more"
+
+
+	# About section
+	[params.about]
+		headline    = "Sobre o evento"
+		description = "Criada em 2015 com o intuito de fortalecer as aptidões acadêmicas dos estudantes da UACSA, a Semana das Engenharias cresceu e a cada ano se fortalece mais como um ponto focal de discussão e disseminação de inovações tecnológicas. A partir de 2016 a Semana passou a contemplar o Congresso de Engenharias da UACSA, reafirmando o caráter interdisciplinar da Unidade ao propor uma programação diversificada, contando com a participação de profissionais das mais diversas áreas da Engenharia ligados a instituições do país e do exterior."
+		#buttonText  = "Get started!"
+
+		# Contact section
+		[params.contact]
+			headline = "Organização"
+			#description = "A ser definido."
+			#phone = "+55 81 3512 5820"
+			#email = "seeng2017@gmail.com"
+
+	# Google Maps section
+	# [params.location]
+	# 	latitude  = "34.007850"
+	# 	longitude = "-118.499305"
+# 	maps_api_key = ""
