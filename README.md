@@ -20,4 +20,4 @@ You can preview the website in your machine with the following command:
 The address for accessing it is informed in the output of this previous command. For further info go to [Hugo](https://gohugo.io/)'s website.
 
 ## Acknowledgements
-The Hugo's theme used in this website is based on Hugo's [Creative](http://themes.gohugo.io/creative/) theme, which is based on a Bootstrap theme by David Miller. Hugo's Creative is published with an Apache License 2.0. Our customized version is included in this repository.
+The Hugo's theme used in this website is based on Hugo's [Creative](http://themes.gohugo.io/creative/) theme, which is based on a Bootstrap theme by David Miller. Hugo's Creative is published with an Apache License 2.0. Our customized version is included in this repository. A statement of modified files can be found at themes/hugo-creative-theme/CHANGES.md
