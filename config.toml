@@ -40,7 +40,7 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
     		slogan     = "Semana das Engenharias"
-		subtitle   = '<h1><a href="2017/">»2017«</a></h1><h3><a href="2016/">2016</a></h3>'
+		subtitle   = '<h1><a href="2017/">»2017«</a></h1><h3><a href="2016/">2016</a></h3><h3><a href="2015/">2015</a></h3>'
 		#buttonText = "Find out more"
 
 
